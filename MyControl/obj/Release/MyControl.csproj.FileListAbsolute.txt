@@ -1,0 +1,7 @@
+F:\2016\MyControl\MyControl\bin\MyControl.dll.config
+F:\2016\MyControl\MyControl\bin\MyControl.dll
+F:\2016\MyControl\MyControl\bin\MyControl.pdb
+F:\2016\MyControl\MyControl\bin\Konke.dll
+F:\2016\MyControl\MyControl\bin\Newtonsoft.Json.dll
+F:\2016\MyControl\MyControl\obj\Release\MyControl.dll
+F:\2016\MyControl\MyControl\obj\Release\MyControl.pdb
